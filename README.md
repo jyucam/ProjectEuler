@@ -23,3 +23,4 @@ On the public repository, I have a folder dedicated to:
 | 11 | Largest Product in a Grid | 30/09/2026 | [Problem 11](Solutions/Problem_0011.ipynb) | 
 | 12 | Highly Divisible Triangular Number | 01/10/2026 | [Problem 12](Solutions/Problem_0012.ipynb) | 
 | 13 | Large Sum | 02/10/2026 | [Problem 13](Solutions/Problem_0013.ipynb) |
+| 14 | 	Longest Collatz Sequence | 03/10/2026 | [Problem 14](Solutions/Problem_0014.ipynb) |
