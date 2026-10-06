@@ -24,3 +24,6 @@ On the public repository, I have a folder dedicated to:
 | 12 | Highly Divisible Triangular Number | 01/10/2026 | [Problem 12](Solutions/Problem_0012.ipynb) | 
 | 13 | Large Sum | 02/10/2026 | [Problem 13](Solutions/Problem_0013.ipynb) |
 | 14 | 	Longest Collatz Sequence | 03/10/2026 | [Problem 14](Solutions/Problem_0014.ipynb) |
+| 15 | 	Lattice Paths | 04/10/2026 | [Problem 15](Solutions/Problem_0015.ipynb) |
+| 16 | 	Power Digit Sum | 05/10/2026 | [Problem 16](Solutions/Problem_0016.ipynb) |
+| 17 | 	Number Letter Counts | 06/10/2026 | [Problem 17](Solutions/Problem_0017.ipynb) |
