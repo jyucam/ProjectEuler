@@ -27,3 +27,5 @@ On the public repository, I have a folder dedicated to:
 | 15 | 	Lattice Paths | 04/10/2026 | [Problem 15](Solutions/Problem_0015.ipynb) |
 | 16 | 	Power Digit Sum | 05/10/2026 | [Problem 16](Solutions/Problem_0016.ipynb) |
 | 17 | 	Number Letter Counts | 06/10/2026 | [Problem 17](Solutions/Problem_0017.ipynb) |
+| 18 | 	Maximum Path Sum I | 07/10/2026 | [Problem 18](Solutions/Problem_0018.ipynb) |
+| 19 | 	Counting Sundays | 08/10/2026 | [Problem 19](Solutions/Problem_0019.ipynb) |
