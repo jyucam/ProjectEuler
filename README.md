@@ -31,3 +31,8 @@ On the public repository, I have a folder dedicated to:
 | 19 | 	Counting Sundays | 08/10/2026 | [Problem 19](Solutions/Problem_0019.ipynb) |
 | 20 | Factorial Digit Sum | 08/10/2026 | [Problem 20](Solutions/Problem_0020.ipynb) |
 | 21 | Amicable Numbers | 09/10/2026 | [Problem 21](Solutions/Problem_0021.ipynb) |
+| 22 | Name Scores | 10/10/2026 | [Problem 22](Solutions/Problem_0022.ipynb) |
+| 23 | Non-Abundant Sums | 11/10/2026 | [Problem 23](Solutions/Problem_0023.ipynb) |
+| 24 | Lexicographic Permutations| 14/10/2026 | [Problem 24](Solutions/Problem_0024.ipynb) |
+| 25 | 1000-digit Fibonacci Number | 12/10/2026 | [Problem 25](Solutions/Problem_0025.ipynb) |
+| 26 | Reciprocal Cycles | 13/10/2026 | [Problem 26](Solutions/Problem_0026.ipynb) |
