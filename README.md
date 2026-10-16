@@ -36,3 +36,7 @@ On the public repository, I have a folder dedicated to:
 | 24 | Lexicographic Permutations| 14/10/2026 | [Problem 24](Solutions/Problem_0024.ipynb) |
 | 25 | 1000-digit Fibonacci Number | 12/10/2026 | [Problem 25](Solutions/Problem_0025.ipynb) |
 | 26 | Reciprocal Cycles | 13/10/2026 | [Problem 26](Solutions/Problem_0026.ipynb) |
+| 27 | Quadratic Primes | 14/10/2026 | [Problem 27](Solutions/Problem_0027.ipynb) |
+| 28 | Number Spiral Diagonals | 14/10/2026 | [Problem 28](Solutions/Problem_0028.ipynb) |
+| 29 | Distinct Powers | 16/10/2026 | [Problem 29](Solutions/Problem_0029.ipynb) |
+| 30 | Digit Fifth Powers | 16/10/2026 | [Problem 30](Solutions/Problem_0030.ipynb) |
