@@ -40,3 +40,9 @@ On the public repository, I have a folder dedicated to:
 | 28 | Number Spiral Diagonals | 14/10/2026 | [Problem 28](Solutions/Problem_0028.ipynb) |
 | 29 | Distinct Powers | 16/10/2026 | [Problem 29](Solutions/Problem_0029.ipynb) |
 | 30 | Digit Fifth Powers | 16/10/2026 | [Problem 30](Solutions/Problem_0030.ipynb) |
+| 31 | Coin Sums | 19/10/2026 | [Problem 31](Solutions/Problem_0031.ipynb) |
+| 32 | Pandigital Products | 21/10/2026 | [Problem 32](Solutions/Problem_0032.ipynb) |
+| 33 | Digit Cancelling Fractions | 21/10/2026 | [Problem 33](Solutions/Problem_0033.ipynb) |
+| 34 | Digit Factorials | 23/10/2026 | [Problem 34](Solutions/Problem_0034.ipynb) |
+| 35 | Circular Primes | 23/10/2026 | [Problem 35](Solutions/Problem_0035.ipynb) |
+| 36 | Double-base Palindromes | 24/10/2026 | [Problem 36](Solutions/Problem_0036.ipynb) |
