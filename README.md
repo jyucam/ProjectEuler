@@ -46,3 +46,5 @@ On the public repository, I have a folder dedicated to:
 | 34 | Digit Factorials | 23/10/2026 | [Problem 34](Solutions/Problem_0034.ipynb) |
 | 35 | Circular Primes | 23/10/2026 | [Problem 35](Solutions/Problem_0035.ipynb) |
 | 36 | Double-base Palindromes | 24/10/2026 | [Problem 36](Solutions/Problem_0036.ipynb) |
+| 37 | 	Truncatable Primes | 25/10/2026 | [Problem 37](Solutions/Problem_0037.ipynb) |
+| 38 | 	Pandigital Multiples | 26/10/2026 | [Problem 38](Solutions/Problem_0038.ipynb) |
