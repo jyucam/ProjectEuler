@@ -48,3 +48,7 @@ On the public repository, I have a folder dedicated to:
 | 36 | Double-base Palindromes | 24/10/2026 | [Problem 36](Solutions/Problem_0036.ipynb) |
 | 37 | 	Truncatable Primes | 25/10/2026 | [Problem 37](Solutions/Problem_0037.ipynb) |
 | 38 | 	Pandigital Multiples | 26/10/2026 | [Problem 38](Solutions/Problem_0038.ipynb) |
+| 39 | 	Integer Right Triangles | 27/10/2026 | [Problem 39](Solutions/Problem_0039.ipynb) |
+| 40 | 	Champernowne's Constant | 29/10/2026 | [Problem 40](Solutions/Problem_0040.ipynb) |
+| 41 | 	Pandigital Prime | 29/10/2026 | [Problem 41](Solutions/Problem_0041.ipynb) |
+| 42 | 	Coded Triangle Numbers | 29/10/2026 | [Problem 42](Solutions/Problem_0042.ipynb) |
